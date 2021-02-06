@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/IsmailTitas1815/IsmailTitas1815.svg)](http://hits.dwyl.com/IsmailTitas1815/IsmailTitas1815)
 <img src="https://komarev.com/ghpvc/?username=IsmailTitas1815"> 
-### Hi there, I'm Pronob 👋
+### Hi there, I'm Ismail Titas 👋
 
 
 - 💻 I ~like~ **love** coding
