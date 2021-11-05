@@ -32,6 +32,6 @@
  
  ### Connect with me:
  
-<a src="https://www.linkedin.com/in/pronobmozumder/"> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+<a src="https://www.linkedin.com/in/ismailtitas1815/"> <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <a src="https://www.facebook.com/IsmailTitas1815"><img align="left" alt="mehrab-haque | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
  
