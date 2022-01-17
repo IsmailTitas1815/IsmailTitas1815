@@ -4,8 +4,7 @@
 
 
 - 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on a educational platform. Keep an eye for it.
-- 👯 I have successfully worked on production level web projects  front-end and back-end.
+- 👯 I have successfully worked on production level web projects front-end and back-end.
 - 👯 I’m looking to collaborate on opensource and group projects.
 
  
